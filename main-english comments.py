@@ -1,7 +1,7 @@
 from PIL import Image 
 import numpy as np 
 import matplotlib.pyplot as plt 
-#I'm just making this edit so I can open a pull request and write comments. 
+
  
 ### The Quicksort Algorithm 
 # This is a helpermethod for the quickSort Algorithm 
