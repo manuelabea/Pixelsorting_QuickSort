@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
+
 ### The Quicksort Algorithm
 # This is a helpermethod for the quickSort Algorithm
 # We need to give the quickSort the parameters arr, low, high and comparator every time
